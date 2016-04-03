@@ -1,0 +1,9 @@
+1. Layout Design (Mujahid)
+2. local file storing and reading in java script (Reehan)
+3. Unzip in javascript (Reehan)
+4. Html5 video reader (Musaib)
+5. Dynamic transitions (Reehan)
+6. IOS app developer key (Musaib)
+7. IOS build (Musaib)
+8. export to (video format)MP4.
+9. Music overlay. 
