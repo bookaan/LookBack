@@ -6,4 +6,10 @@
 6. IOS app developer key (Musaib)
 7. IOS build (Musaib)
 8. export to (video format)MP4.
-9. Music overlay. 
+9. Music overlay.
+
+Ionic Links:
+http://noeticforce.com/best-hybrid-mobile-app-ui-frameworks-html5-js-css
+http://famous.org/
+http://ionicframework.com/getting-started/
+market.ionic.io/starters
